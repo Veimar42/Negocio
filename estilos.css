@@ -85,7 +85,7 @@
    width: 130px;
 }
 
- @media (width > 720px){
+ @media (width > 1080px){
     .nav_container{
          --transform-menu-show: translate(0);
     }
@@ -168,7 +168,7 @@
     background-color: #f1f1f1;
   }
 
-  @media (max-width: 720px) {
+  @media (max-width: 1080px) {
     table {
       width: 100%;
     }
