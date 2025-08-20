@@ -88,10 +88,10 @@
  @media (width > 720px){
     .nav_container{
          --transform-menu-show: translate(0);
+         width: 100%;
     }
     .nav_toggle{
         display: none;
-        width: 100%;
     }
     .nav_list{
         position: static;
@@ -100,7 +100,6 @@
         padding: 0;
 
         transition: unset;
-        width: 100%;
     }
  }
  header{
