@@ -85,7 +85,7 @@
    width: 130px;
 }
 
- @media (width > 480px){
+ @media (width > 720px){
     .nav_container{
          --transform-menu-show: translate(0);
     }
@@ -168,15 +168,6 @@
     background-color: #f1f1f1;
   }
 
-  @media (max-width: 480px) {
-    table {
-      width: 100%;
-    }
-    td, th {
-      padding: 8px;
-      font-size: 14px;
-    }
-  }
     .iconos {
       padding: 20vh;
       text-align: center;
